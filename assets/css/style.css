@@ -1,0 +1,15 @@
+.navbar-default {
+    margin-bottom: 0;
+}
+
+#header-section {
+    width: 100%;
+    height: calc(100vh - 50px);
+    background-image: url("http://kelleycountrycreamery.com/wp-content/uploads/2011/02/Sundaes2.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+}
